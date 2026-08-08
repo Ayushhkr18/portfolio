@@ -267,7 +267,7 @@ body {
 }
 .scroll-indicator {
   position: absolute;
-  bottom: 2.5rem;
+  bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
