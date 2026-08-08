@@ -285,6 +285,7 @@ body {
   border: 5px solid var(--border-color-hover);
   border-radius: 22px;
   position: relative;
+  bottom : 30px;
 }
 .wheel {
   width: 4px;
